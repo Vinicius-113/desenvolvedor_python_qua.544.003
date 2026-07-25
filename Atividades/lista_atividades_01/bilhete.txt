@@ -1,0 +1,5 @@
+===== BILHETE DO CINEMA =====
+Nome: marcos
+Idade: 25
+Filme: Volta dos que Não Foram
+Sala: 1
