@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'ghost shadow';
+    src: url(../fonts/Ghost\ Shadow.ttf) format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+h1 {
+    font-family: Ghost shadow, Helvetica, sans-serif;
+}
